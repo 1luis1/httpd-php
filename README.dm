@@ -1,3 +1,3 @@
 # httpd-php  
 
- *_CentOS with Apache and PHP_*
+# CentOS with Apache and PHP
